@@ -1,0 +1,17 @@
+:root{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+span img{
+   height:10rem;
+}
+#busqueda{
+    background-color: rgb(229, 229, 229);
+    
+}
+
+#link{
+    margin:0.5rem;
+}
